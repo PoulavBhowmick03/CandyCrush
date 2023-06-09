@@ -1,4 +1,7 @@
 # Candy Crush Game
+## Play at:-
+
+https://poulavbhowmick03.github.io/CandyCrush/
 
 A simple Candy Crush game built using HTML, CSS, and JavaScript.
 
